@@ -10,6 +10,11 @@ Developer setup
 In order to edit the GitHub pages (see gh-pages branch), it is preferred to use Jekyll.
 * `sudo apt-get install ruby-dev`
 * `sudo gem install jekyll`
+* curl -sL https://deb.nodesource.com/setup | sudo bash -
+* sudo apt-get install nodejs
+* git checkout gh-pages
+* jekyll serve
+* Browse http://127.0.0.1:4000/
 
 References
 ----------
