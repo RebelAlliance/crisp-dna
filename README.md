@@ -1,9 +1,12 @@
 crisp-model
 ===========
 
-A description of the ways of working for Crisp AB in Stockholm, Sweden. A.k.a Crisp DNA!
+A description of how Crisp works as an organization.
+Not much here yet, so here's a link to an article:
+http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000
 
-Site published at: http://crispab.github.io/crisp-model
+
+This site published at: http://crispab.github.io/crisp-model
 
 More about Crisp: http://www.crisp.se
 
