@@ -5,6 +5,9 @@ A description of the ways of working for Crisp AB in Stockholm, Sweden. A.k.a Cr
 
 Site published at: http://crispab.github.io/crisp-model
 
+More about Crisp: http://www.crisp.se
+
+
 Developer setup
 ---------------
 In order to edit the GitHub pages (see gh-pages branch), it is preferred to use Jekyll.
