@@ -18,6 +18,8 @@ In order to edit the GitHub pages (see gh-pages branch), it is preferred to use 
 * `sudo gem install jekyll`
 * curl -sL https://deb.nodesource.com/setup | sudo bash -
 * sudo apt-get install nodejs
+* git clone git@github.com:crispab/crisp-model.git
+* cd crisp-model
 * git checkout gh-pages
 * jekyll serve
 * Browse http://127.0.0.1:4000/
