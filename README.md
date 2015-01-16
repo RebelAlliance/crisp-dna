@@ -13,6 +13,7 @@ There are two alternatives. Either you set it up manually, or use vagrant to set
 ### Manual developer setup
 
 * `sudo apt-get install ruby-dev`
+* `sudo gem install github-pages`
 * `sudo gem install jekyll`
 * curl -sL https://deb.nodesource.com/setup | sudo bash -
 * sudo apt-get install nodejs
@@ -28,7 +29,6 @@ There are two alternatives. Either you set it up manually, or use vagrant to set
 * Browse http://127.0.0.1:4000/
 
 ## References
-----------
 * https://pages.github.com/
 * http://jekyllrb.com/docs/quickstart/
 * http://daringfireball.net/projects/markdown/basics
