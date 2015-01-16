@@ -17,6 +17,7 @@ There are two alternatives. Either you set it up manually, or use vagrant to set
 * `sudo gem install jekyll`
 * curl -sL https://deb.nodesource.com/setup | sudo bash -
 * sudo apt-get install nodejs
+* sudo apt-get install bundler
 * git clone git@github.com:crispab/crisp-model.git
 * cd crisp-model
 * git checkout gh-pages
