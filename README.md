@@ -1,13 +1,17 @@
-crisp-model
-===========
+# crisp-model
 
 A description of how [Crisp](http://www.crisp.se) works as an organization.
 
 This site auto-published at: http://crispab.github.io/crisp-model
 
-Developer setup
----------------
+## Developer setup
+
 In order to edit the GitHub pages (see gh-pages branch), it is preferred to use Jekyll.
+
+There are two alternatives. Either you set it up manually, or use vagrant to setup and provision a virtual machine.
+
+### Manual developer setup
+
 * `sudo apt-get install ruby-dev`
 * `sudo gem install jekyll`
 * curl -sL https://deb.nodesource.com/setup | sudo bash -
@@ -19,7 +23,11 @@ In order to edit the GitHub pages (see gh-pages branch), it is preferred to use 
    (this will do "bundle exec jekyll serve --baseurl ''", which starts jekyll using the exact same gems as github uses, so so that the site will look correct when testing locally)
 * Browse http://127.0.0.1:4000/
 
-References
+### Vagrant setup
+* `vagrant up`
+* Browse http://127.0.0.1:4000/
+
+## References
 ----------
 * https://pages.github.com/
 * http://jekyllrb.com/docs/quickstart/
