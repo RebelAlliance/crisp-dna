@@ -2,7 +2,7 @@
 
 A description of how [Crisp](http://www.crisp.se) works as an organization.
 
-This site auto-published at: http://crispab.github.io/crisp-model
+This site auto-published at: http://dna.crisp.se
 
 ## Developer setup
 
